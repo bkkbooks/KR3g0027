@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR3g0027/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3g0027/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 發微論
+  date: '2015-08-24 23:12:27.703581'
+  source:
+    repository: kanripo
+    path: KR3g0027
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3g0027_000-WYG.yaml, hash: 'sha256:a4469d19d2eb76ca719cf25bde96cd8d65e3a0f12fa84c08960fb3d9dafaf681'}
+  - {seq: 1, filename: KR3g0027_001-WYG.yaml, hash: 'sha256:a7262201631d997da132e3b3c802896ab031825b9b07e0bae4f0be8a9d29a095'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3g0027_000-WYG.markers.yaml, hash: 'sha256:1355e776a62a2ac8f4f3e531935d2494be30a3eb4c6442347f63e71f7e050588'}
+  - {seq: 1, role: markers, filename: assets/KR3g0027_001-WYG.markers.yaml, hash: 'sha256:00a4698685db9aece503c0738845023d1d5070303fa1fae97804b4971f5c023d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3g0027_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 396
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3g0027_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 3369
+  label: 發微論
+  type: section
+  level: 1
+hash: sha256:da3be9aadd7df7508caa5ef52901a9514fa12a8008abe2c329149a47b74fb4d0

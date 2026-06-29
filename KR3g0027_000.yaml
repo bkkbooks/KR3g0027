@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3g0027/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部七
+  hash: sha256:c56cb4cd5b732cd36ea971ae80108660cfb3e98cda8d401783cc8f10d44be81a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3g0027_WYG_000-1a, image: WYG0808/WYG0808-0189a.png}
+body:
+  text: 發微論術數類三相宅相墓之屬提要臣等謹按發微論一卷宋蔡元定撰元定字季通建陽人遊於朱子之門慶元中僞學禁起坐黨籍竄道州卒於謫所後韓托胄敗追贈迪功郎賜諡文節事蹟具宋史儒林𫝊元定之學旁涉術數而尤究心於地理是篇即其相地之書大㫖主於地道一剛一柔以明動靜觀聚散審向背觀雌雄辨強弱分順逆識生死察微著究分合别浮沉定淺深正饒減詳趨避知裁成凡十有四例遞為推闡而以原感應一篇明福善禍淫之理終焉蓋術家惟論其數元定則推究以儒理故其說能不悖於道如云水本動欲其靜山本靜欲其動聚散言乎其大勢向背言乎其性情知山川之大勢默定於數里之外而後能推順逆於咫尺微茫之間善觀者以有形察無形不善觀者以無形蔽有形皆能抉摘精奧非方技之士支離誕漫之比也地理大全亦載此書題曰蔡牧堂撰考元定父發自號牧堂老人則其書當出自發手或後人誤屬之元定亦未可知然勘核諸本題元定者為多今故以元定之名著於録焉乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:2656a615913eb5bfc949cbca59349e4799f5fe83eae8bfeba9f67e36670959d8
+metadata:
+  title: 發微論
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:12:27.703581'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3g0027/KR3g0027_000.txt
+hash: sha256:9e84a96fad867fcd4335b0cc993687a45d2b319d4068a710a3c95c162beb34a5
