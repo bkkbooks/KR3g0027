@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR3g0027_000-WYG.yaml, hash: 'sha256:a4469d19d2eb76ca719cf25bde96cd8d65e3a0f12fa84c08960fb3d9dafaf681'}
   - {seq: 1, filename: KR3g0027_001-WYG.yaml, hash: 'sha256:a7262201631d997da132e3b3c802896ab031825b9b07e0bae4f0be8a9d29a095'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3g0027_000-WYG.markers.yaml, hash: 'sha256:1355e776a62a2ac8f4f3e531935d2494be30a3eb4c6442347f63e71f7e050588'}
+  - {seq: 0, role: markers, filename: assets/KR3g0027_000-WYG.markers.yaml, hash: 'sha256:b1dddbc9149e9277c6282a990cbbc7354034109e0176f0415cae55b90c8f448c'}
   - {seq: 1, role: markers, filename: assets/KR3g0027_001-WYG.markers.yaml, hash: 'sha256:00a4698685db9aece503c0738845023d1d5070303fa1fae97804b4971f5c023d'}
 table_of_contents:
 - ref:
@@ -43,4 +43,4 @@ table_of_contents:
   label: 發微論
   type: section
   level: 1
-hash: sha256:da3be9aadd7df7508caa5ef52901a9514fa12a8008abe2c329149a47b74fb4d0
+hash: sha256:66bc86ef7eea20167ead80deb03da629bb73de5f923e069edd21099b54b87081
